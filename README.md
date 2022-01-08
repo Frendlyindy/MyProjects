@@ -2,9 +2,9 @@
 
 This is my classic Hello World program. I made it to display the classic message on screen.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](https://youtu.be/Cpppi-mjxQ0)
 
 # Development Environment
 
@@ -17,5 +17,5 @@ Git
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Stackoverflow](https://stackoverflow.com/)
+* [W3 Schools](https://www.w3schools.com/python/)
